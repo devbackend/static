@@ -1,0 +1,46 @@
+[
+    {
+        "grouping": "Languages",
+        "skills": [
+            "PHP",
+            "Javascript",
+            "Typescript",
+            "Go",
+            "Sass",
+            "CSS3",
+            "HTML5"
+        ]
+    },
+    {
+        "grouping": "Frameworks and libraries",
+        "skills": [
+            "Yii",
+            "Laravel",
+            "Angular",
+            "jQuery",
+            "Bootstrap"
+        ]
+    },
+    {
+        "grouping": "Database and cache",
+        "skills": [
+            "MySQL",
+            "Postgresql",
+            "Redis",
+            "Memcache"
+        ]
+    },
+    {
+        "grouping": "Other",
+        "skills": ["Git",
+            "Nodejs", 
+            "Grunt", 
+            "Gulp", 
+            "npm", 
+            "Linux", 
+            "Ubuntu",
+            "composer",
+            "scrum"
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "role":"Lead Developer",
+        "company":"Sberbank",
+        "summary":"Backend for project \"Bank of partners\" on Yii2 + MySQL",
+        "range":"August 2019 - Present"
+    },
+    {
+        "role":"Developer / Senior Developer",
+        "company":"DNS Retail",
+        "summary":"Backend and Frontend develpment of ecommerce websites dns-shop.ru and technopoint.ru; work with Yii2, Postgresql, Memcached, Redis. Took part in create UI for self-service terminals on Angular2+. In the end of work took part in coding of backend for online chat on Nodejs: framework SailsJS; setup linting tools for PHP, js, typescript and scss; writing unit-testing for new features, got expirience in TDD.",
+        "range":"May 2016 - July 2019"
+    },
+    {
+        "role":"Developer",
+        "company":"PrimaMedia",
+        "summary":"Development and maintenance of internal projects of the company, as well as the main company site - PrimaMedia.ru. Got experience with Yii2. Setup automatic deployment of sites, migration from FTP to GIT, setting up automatic assembly of the frontend and installing Sphinx as the main search engine for sites.",
+        "range":"June 2015 - May 2016"
+    },
+    {
+        "role":"Developer",
+        "company":"Saitex web studio",
+        "summary":"Work with classic web full-stack: PHP, JS, HTML, CSS, MySQL. Create and maintenance client websites on popular CMS. In the end of work learned GIT, unit-testing, deploy systems and frontend compiler Gulp",
+        "range":"November 2012 - June 2015"
+    }
+]
