@@ -1,9 +1,15 @@
 [
     {
+        "role":"Backend Developer",
+        "company":"CityMobil",
+        "summary":"Backend developer in backoffice team. Refactoring legacy code, optimize bottlenecks, improve architecture of codebase.",
+        "range":"January 2020 - Present"
+    },
+    {
         "role":"Lead Developer",
         "company":"Sberbank",
         "summary":"Backend for project \"Bank of partners\" on Yii2 + MySQL",
-        "range":"August 2019 - Present"
+        "range":"August 2019 - December 2019"
     },
     {
         "role":"Developer / Senior Developer",
