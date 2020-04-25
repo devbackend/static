@@ -1,7 +1,7 @@
 {
   "title": "Reviewzorro",
   "date": "2019-05-25T14:00:00+10:00",
-  "image": "",
+  "image": "/img/default-project.jpg",
   "link": "https://github.com/devbackend/reviewzorro",
   "description": "Unreleased project for automatic code reveiw",
   "tags": ["petproject","php"],

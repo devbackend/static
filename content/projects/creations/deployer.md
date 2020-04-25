@@ -1,7 +1,7 @@
 {
   "title": "Deployer",
   "date": "2017-09-17T12:00:00+10:00",
-  "image": "",
+  "image": "/img/default-project.jpg",
   "link": "https://github.com/devbackend/deployer",
   "description": "Simple deployer for own projects",
   "tags": ["petproject","php"],
