@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>postgresql on Backend engineer Ivan Krivonos</title>
+    <link>https://devbackend.com/tags/postgresql/</link>
+    <description>Recent content in postgresql on Backend engineer Ivan Krivonos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Feb 2017 15:00:00 +1000</lastBuildDate>
+    
+	<atom:link href="https://devbackend.com/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Authgram</title>
+      <link>https://devbackend.com/projects/creations/authgram/</link>
+      <pubDate>Thu, 23 Feb 2017 15:00:00 +1000</pubDate>
+      
+      <guid>https://devbackend.com/projects/creations/authgram/</guid>
+      <description>Authgram is petproject, which I’m released in prod and supported two years. Written in PHP, Laravel framework. Stopped due to Telegram announced and released native app authentication on websites.</description>
+    </item>
+    
+  </channel>
+</rss>

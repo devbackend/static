@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Backend engineer Ivan Krivonos</title>
-    <link>https://devbackend.com/</link>
-    <description>Recent content on Backend engineer Ivan Krivonos</description>
+    <title>PetProjects on Backend engineer Ivan Krivonos</title>
+    <link>https://devbackend.com/projects/creations/</link>
+    <description>Recent content in PetProjects on Backend engineer Ivan Krivonos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 May 2019 14:00:00 +1000</lastBuildDate>
     
-	<atom:link href="https://devbackend.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://devbackend.com/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
