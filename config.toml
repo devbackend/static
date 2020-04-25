@@ -11,17 +11,21 @@ theme = "hugo-resume"
     contactNote = "Backend engineer"
     profileImage = "img/pic.jpeg"
     email = "devbackend@yandex.ru"
-    description = "Backend engineer on PHP; 7 years related experience"
+    description = "Backend developer: PHP/Golang; author of telegram channel @devbackend"
     favicon = "img/favicon.ico"
     # what sections
     showSkills = true
-    showProjects = false
+    showProjects = true
     showOpenSource = false
     showPublications = false
     showExperience = true
     showEducation = false
 
-    showQr = true
+    showQr = false
+
+[[params.handles]]
+    name = "Telegram"
+    link = "https://telegram.me/devbackend"
 
 [[params.handles]]
     name = "GitHub"
@@ -42,10 +46,6 @@ theme = "hugo-resume"
 [[params.handles]]
     name = "Twitter"
     link = "https://twitter.com/ivan_krivonos"
-
-[[params.handles]]
-    name = "Telegram"
-    link = "https://telegram.me/IvanKrivonos"
 
 [[params.handles]]
     name = "Instagram"

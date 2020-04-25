@@ -3,44 +3,27 @@
         "grouping": "Languages",
         "skills": [
             "PHP",
-            "Javascript",
-            "Typescript",
-            "Go",
-            "Sass",
-            "CSS3",
-            "HTML5"
+            "Go"
+        ]
+    },
+    {
+        "grouping": "Storages",
+        "skills": [
+            "Postgresql",
+            "MySQL",
+            "Redis",
+            "Memcache",
+            "Kafka"
         ]
     },
     {
         "grouping": "Frameworks and libraries",
         "skills": [
-            "Yii",
+            "Symfony",
             "Laravel",
-            "Angular",
-            "jQuery",
-            "Bootstrap"
-        ]
-    },
-    {
-        "grouping": "Database and cache",
-        "skills": [
-            "MySQL",
-            "Postgresql",
-            "Redis",
-            "Memcache"
-        ]
-    },
-    {
-        "grouping": "Other",
-        "skills": ["Git",
-            "Nodejs", 
-            "Grunt", 
-            "Gulp", 
-            "npm", 
-            "Linux", 
-            "Ubuntu",
-            "composer",
-            "scrum"
+            "Yii",
+            "Nodejs",
+            "gRPC"
         ]
     }
 ]
