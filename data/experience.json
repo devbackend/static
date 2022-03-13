@@ -1,9 +1,15 @@
 [
     {
+        "role":"Golang backend developer",
+        "company":"Avito.ru",
+        "summary":"Backend engineer at Trust&Safety cluster - creating services for protection accounts on Avito from break-ins and scammers",
+        "range":"December 2021 - Present"
+    },
+    {
         "role":"Senior Backend Developer / TeamLead",
         "company":"CityMobil",
         "summary":"Backend developer in backoffice team. Refactoring legacy code, optimize bottlenecks, improve architecture of codebase. Team management: elaboration of personal goals of team members, assistance in achieving them. Search balance between Tech Debt Tasks and Business Tasks. Integration with other teams.",
-        "range":"January 2020 - Present"
+        "range":"January 2020 - November 2021"
     },
     {
         "role":"Lead Developer",

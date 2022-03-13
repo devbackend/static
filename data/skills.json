@@ -10,14 +10,13 @@
         "grouping": "Storages",
         "skills": [
             "Postgresql",
-            "MySQL",
             "Redis",
-            "Memcache",
+            "MySQL",
             "Kafka"
         ]
     },
     {
-        "grouping": "Frameworks and libraries",
+        "grouping": "Frameworks, libraries and technologies",
         "skills": [
             "Symfony",
             "Laravel",
